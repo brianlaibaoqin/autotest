@@ -1,0 +1,30 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.18t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+NPSWF64_28_0_0_137.dll|$
+C:\Windows\system32\Macromed\Flash\NPSWF64_28_0_0_137.dll|$
+28.0.0.137|$
+1516156494645|0|0|0|$
+Shockwave Flash 28.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]
+D:\APP_IN~1\Office15\NPSPWRAP.DLL|$
+1349094962000|$
+C:\Program Files\Java\jre1.8.0_144\bin\plugin2\npjp2.dll|$
+1507964083235|$
+C:\Program Files\Java\jre1.8.0_144\bin\dtplugin\npdeployJava1.dll|$
+1507964083105|$
+D:\APP_install\xunlei\Data\npxunlei1.0.0.2.dll|$
+1511834906143|$
+C:\Program Files (x86)\Common Files\Thunder Network\UserAgent\npxluser2.0.2.3.dll|$
+1511834906143|$
+C:\Users\Administrator\AppData\Roaming\Tencent\WebGamePlugin\1.0.4.3\npqqwebgame.dll|$
+1445322560000|$

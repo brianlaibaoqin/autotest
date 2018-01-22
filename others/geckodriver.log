@@ -1,0 +1,576 @@
+1516170365653	geckodriver	INFO	geckodriver 0.19.1
+1516170365660	geckodriver	INFO	Listening on 127.0.0.1:50770
+1516170368702	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.O5zt2SH2l5Mb"
+1516170369547	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516170371297	Marionette	INFO	Listening on port 50778
+1516170371889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516170371946	Marionette	DEBUG	Register listener.js for window 4294967297
+1516170371980	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516170372186	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516170372186	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516170372574	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516170372628	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516170383646	geckodriver	INFO	geckodriver 0.19.1
+1516170383654	geckodriver	INFO	Listening on 127.0.0.1:50822
+1516170386709	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.XOO93syoY9iB"
+1516170387229	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516170388763	Marionette	INFO	Listening on port 50830
+1516170388797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516170388875	Marionette	DEBUG	Register listener.js for window 4294967297
+1516170388917	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516170389311	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516170389311	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516170389573	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516170389618	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1461_19033_21126_22159&req=2&csor=2&pwd=s&cb=jQuery110205049667692698553_1516170389469&_=1516170389472, line 1: TypeError: jQuery110205049667692698553_1516170389469 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1461_19033_21126_22159&req=2&csor=1&cb=jQuery110205049667692698553_1516170389469&_=1516170389471, line 1: TypeError: jQuery110205049667692698553_1516170389469 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1461_19033_21126_22159&req=2&csor=5&pwd=sele&cb=jQuery110205049667692698553_1516170389469&_=1516170389475, line 1: TypeError: jQuery110205049667692698553_1516170389469 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1461_19033_21126_22159&req=2&csor=3&pwd=se&cb=jQuery110205049667692698553_1516170389469&_=1516170389473, line 1: TypeError: jQuery110205049667692698553_1516170389469 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1461_19033_21126_22159&req=2&csor=4&pwd=sel&cb=jQuery110205049667692698553_1516170389469&_=1516170389474, line 1: TypeError: jQuery110205049667692698553_1516170389469 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1461_19033_21126_22159&req=2&csor=6&pwd=selen&cb=jQuery110205049667692698553_1516170389469&_=1516170389476, line 1: TypeError: jQuery110205049667692698553_1516170389469 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1461_19033_21126_22159&req=2&csor=7&pwd=seleni&cb=jQuery110205049667692698553_1516170389469&_=1516170389477, line 1: TypeError: jQuery110205049667692698553_1516170389469 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1461_19033_21126_22159&req=2&csor=8&pwd=seleniu&cb=jQuery110205049667692698553_1516170389469&_=1516170389478, line 1: TypeError: jQuery110205049667692698553_1516170389469 is not a function
+1516170394446	Marionette	DEBUG	Register listener.js for window 4294967301
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7828, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516170435038	geckodriver	INFO	geckodriver 0.19.1
+1516170435045	geckodriver	INFO	Listening on 127.0.0.1:50895
+1516170438093	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.yzoFRy9ojT9Y"
+1516170438984	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+[Parent 7788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4120, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516170440400	Marionette	INFO	Listening on port 50903
+1516170441197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516170441252	Marionette	DEBUG	Register listener.js for window 4294967297
+1516170441289	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516170441429	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516170441430	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516170441696	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516170441753	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1442_25549_21082_20718&req=2&csor=1&cb=jQuery110203293906554616438_1516170441604&_=1516170441606, line 1: TypeError: jQuery110203293906554616438_1516170441604 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1442_25549_21082_20718&req=2&csor=2&pwd=s&cb=jQuery110203293906554616438_1516170441604&_=1516170441607, line 1: TypeError: jQuery110203293906554616438_1516170441604 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1442_25549_21082_20718&req=2&csor=4&pwd=sel&cb=jQuery110203293906554616438_1516170441604&_=1516170441609, line 1: TypeError: jQuery110203293906554616438_1516170441604 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1442_25549_21082_20718&req=2&csor=3&pwd=se&cb=jQuery110203293906554616438_1516170441604&_=1516170441608, line 1: TypeError: jQuery110203293906554616438_1516170441604 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1442_25549_21082_20718&req=2&csor=5&pwd=sele&cb=jQuery110203293906554616438_1516170441604&_=1516170441610, line 1: TypeError: jQuery110203293906554616438_1516170441604 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1442_25549_21082_20718&req=2&csor=6&pwd=selen&cb=jQuery110203293906554616438_1516170441604&_=1516170441611, line 1: TypeError: jQuery110203293906554616438_1516170441604 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1442_25549_21082_20718&req=2&csor=7&pwd=seleni&cb=jQuery110203293906554616438_1516170441604&_=1516170441612, line 1: TypeError: jQuery110203293906554616438_1516170441604 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1442_25549_21082_20718&req=2&csor=8&pwd=seleniu&cb=jQuery110203293906554616438_1516170441604&_=1516170441613, line 1: TypeError: jQuery110203293906554616438_1516170441604 is not a function
+[Parent 7788, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516170525143	geckodriver	INFO	geckodriver 0.19.1
+1516170525155	geckodriver	INFO	Listening on 127.0.0.1:51099
+1516170528112	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.H8VjfS8DnWMo"
+1516170528824	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516170531478	Marionette	INFO	Listening on port 51107
+1516170531751	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516170531825	Marionette	DEBUG	Register listener.js for window 4294967297
+1516170531861	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516170532019	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516170532019	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516170532284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516170532342	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1455_19036_21103&req=2&csor=1&cb=jQuery110209755699430392841_1516170532187&_=1516170532189, line 1: TypeError: jQuery110209755699430392841_1516170532187 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1455_19036_21103&req=2&csor=2&pwd=s&cb=jQuery110209755699430392841_1516170532187&_=1516170532190, line 1: TypeError: jQuery110209755699430392841_1516170532187 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1455_19036_21103&req=2&csor=4&pwd=sel&cb=jQuery110209755699430392841_1516170532187&_=1516170532192, line 1: TypeError: jQuery110209755699430392841_1516170532187 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1455_19036_21103&req=2&csor=3&pwd=se&cb=jQuery110209755699430392841_1516170532187&_=1516170532191, line 1: TypeError: jQuery110209755699430392841_1516170532187 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1455_19036_21103&req=2&csor=5&pwd=sele&cb=jQuery110209755699430392841_1516170532187&_=1516170532193, line 1: TypeError: jQuery110209755699430392841_1516170532187 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1455_19036_21103&req=2&csor=6&pwd=selen&cb=jQuery110209755699430392841_1516170532187&_=1516170532194, line 1: TypeError: jQuery110209755699430392841_1516170532187 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1455_19036_21103&req=2&csor=7&pwd=seleni&cb=jQuery110209755699430392841_1516170532187&_=1516170532195, line 1: TypeError: jQuery110209755699430392841_1516170532187 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1455_19036_21103&req=2&csor=8&pwd=seleniu&cb=jQuery110209755699430392841_1516170532187&_=1516170532196, line 1: TypeError: jQuery110209755699430392841_1516170532187 is not a function
+[Parent 8096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8096, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3168, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7616, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516170572458	geckodriver	INFO	geckodriver 0.19.1
+1516170572465	geckodriver	INFO	Listening on 127.0.0.1:51169
+1516170575526	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.UOyKArr9TdjC"
+1516170576070	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516170578749	Marionette	INFO	Listening on port 51177
+1516170579130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516170579197	Marionette	DEBUG	Register listener.js for window 4294967297
+1516170579229	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516170579385	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516170579385	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1516170579706	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516170579749	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1431_21121_20930&req=2&csor=1&cb=jQuery110208110499128348857_1516170579618&_=1516170579620, line 1: TypeError: jQuery110208110499128348857_1516170579618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1431_21121_20930&req=2&csor=2&pwd=s&cb=jQuery110208110499128348857_1516170579618&_=1516170579621, line 1: TypeError: jQuery110208110499128348857_1516170579618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1431_21121_20930&req=2&csor=4&pwd=sel&cb=jQuery110208110499128348857_1516170579618&_=1516170579623, line 1: TypeError: jQuery110208110499128348857_1516170579618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1431_21121_20930&req=2&csor=3&pwd=se&cb=jQuery110208110499128348857_1516170579618&_=1516170579622, line 1: TypeError: jQuery110208110499128348857_1516170579618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1431_21121_20930&req=2&csor=5&pwd=sele&cb=jQuery110208110499128348857_1516170579618&_=1516170579624, line 1: TypeError: jQuery110208110499128348857_1516170579618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1431_21121_20930&req=2&csor=6&pwd=selen&cb=jQuery110208110499128348857_1516170579618&_=1516170579625, line 1: TypeError: jQuery110208110499128348857_1516170579618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1431_21121_20930&req=2&csor=7&pwd=seleni&cb=jQuery110208110499128348857_1516170579618&_=1516170579626, line 1: TypeError: jQuery110208110499128348857_1516170579618 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1431_21121_20930&req=2&csor=8&pwd=seleniu&cb=jQuery110208110499128348857_1516170579618&_=1516170579627, line 1: TypeError: jQuery110208110499128348857_1516170579618 is not a function
+[Parent 4068, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1516170919464	geckodriver	INFO	geckodriver 0.19.1
+1516170919479	geckodriver	INFO	Listening on 127.0.0.1:51280
+1516170923771	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.lsHneOqlvssF"
+1516170923984	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider", "XPIInternal"]
+1516170923986	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1516170924004	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1516170924005	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1516170924006	addons.manager	DEBUG	Starting provider: XPIProvider
+1516170924006	addons.xpi	DEBUG	startup
+1516170924007	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1516170924008	addons.xpi	DEBUG	checkForChanges
+1516170924008	addons.xpi	DEBUG	Loaded add-on state: {"app-system-defaults":{"addons":{"e10srollout@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460161,"path":"e10srollout@mozilla.org.xpi","version":"3.05","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"firefox@getpocket.com":{"enabled":true,"lastModifiedTime":1516154460160,"path":"firefox@getpocket.com.xpi","version":"1.0.5","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"activity-stream@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460211,"path":"activity-stream@mozilla.org.xpi","version":"2017.11.07.1100-7f4e3634","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"aushelper@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460162,"path":"aushelper@mozilla.org.xpi","version":"2.0","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"followonsearch@mozilla.com":{"enabled":true,"lastModifiedTime":1516154460118,"path":"followonsearch@mozilla.com.xpi","version":"0.9.6","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"formautofill@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460117,"path":"formautofill@mozilla.org.xpi","version":"1.0","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"onboarding@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460107,"path":"onboarding@mozilla.org.xpi","version":"1.0","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"screenshots@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460093,"path":"screenshots@mozilla.org.xpi","version":"19.2.0","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"shield-recipe-client@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460060,"path":"shield-recipe-client@mozilla.org.xpi","version":"76.1","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"webcompat@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460048,"path":"webcompat@mozilla.org.xpi","version":"1.1","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false}},"path":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features"},"app-global":{"addons":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"enabled":true,"lastModifiedTime":1516154460211,"path":"{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","version":"57.0.4","type":"theme","currentModifiedTime":1516154460211}},"path":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions","checkStartupModifications":true}}
+1516170924009	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1516170924009	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1516170924010	addons.xpi	INFO	Mapping activity-stream@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1516170924010	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1516170924010	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1516170924010	addons.xpi	INFO	Mapping formautofill@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1516170924010	addons.xpi	INFO	Mapping onboarding@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1516170924011	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1516170924011	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1516170924011	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1516170924011	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1516170924011	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+1516170924012	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1516170924012	addons.xpi	DEBUG	No changes found
+1516170924020	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1516170924021	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1516170924024	addons.xpi	DEBUG	Calling bootstrap method startup on activity-stream@mozilla.org version 2017.11.07.1100-7f4e3634
+1516170924024	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1516170924025	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1516170924026	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1516170924028	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1516170924028	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1516170924036	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 3.05
+1516170924036	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1516170924037	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1516170924041	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1516170924048	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1516170924048	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1516170924050	addons.xpi	DEBUG	Calling bootstrap method startup on followonsearch@mozilla.com version 0.9.6
+1516170924050	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1516170924051	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1516170924052	addons.xpi	DEBUG	Calling bootstrap method startup on formautofill@mozilla.org version 1.0
+1516170924052	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1516170924053	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1516170924055	addons.xpi	DEBUG	Calling bootstrap method startup on onboarding@mozilla.org version 1.0
+1516170924055	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1516170924056	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1516170924058	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 19.2.0
+1516170924058	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1516170924058	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1516170924060	addons.xpi	DEBUG	Calling bootstrap method startup on shield-recipe-client@mozilla.org version 76.1
+1516170924062	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1516170924062	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1516170924064	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1516170924066	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1516170924066	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1516170924066	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1516170924066	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1516170924066	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1516170924066	addons.manager	DEBUG	Starting provider: GMPProvider
+1516170924071	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1516170924071	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1516170924071	addons.manager	DEBUG	Starting provider: PluginProvider
+1516170924071	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1516170924072	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1516170924072	addons.manager	DEBUG	Completed startup sequence
+1516170924134	Marionette	INFO	Enabled via --marionette
+1516170924263	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1516170924263	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1516170924263	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1516170924896	addons.xpi-utils	DEBUG	Starting async load of XPI database C:\Users\Administrator\AppData\Local\Temp\rust_mozprofile.lsHneOqlvssF\extensions.json
+1516170924942	addons.xpi	INFO	Mapping activity-stream@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1516170924942	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1516170924943	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1516170924943	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1516170924943	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1516170924943	addons.xpi	INFO	Mapping formautofill@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1516170924943	addons.xpi	INFO	Mapping onboarding@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1516170924943	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1516170924943	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1516170924944	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1516170924944	addons.xpi	DEBUG	Existing add-on activity-stream@mozilla.org in app-system-defaults
+1516170924945	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1516170924946	addons.xpi	DEBUG	Existing add-on e10srollout@mozilla.org in app-system-defaults
+1516170924946	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1516170924946	addons.xpi	DEBUG	Existing add-on followonsearch@mozilla.com in app-system-defaults
+1516170924947	addons.xpi	DEBUG	Existing add-on formautofill@mozilla.org in app-system-defaults
+1516170924947	addons.xpi	DEBUG	Existing add-on onboarding@mozilla.org in app-system-defaults
+1516170924947	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1516170924948	addons.xpi	DEBUG	Existing add-on shield-recipe-client@mozilla.org in app-system-defaults
+1516170924948	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1516170924949	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1516170924950	addons.xpi	DEBUG	Existing add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1516170924950	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+1516170925085	addons.xpi-utils	DEBUG	Async JSON file read took 0 MS
+1516170925086	addons.xpi-utils	DEBUG	Finished async read of XPI database, parsing...
+1516170925089	addons.xpi-utils	DEBUG	Successfully read XPI database
+1516170925160	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925160	DeferredSave.webext.sc.lz4	DEBUG	Starting timer
+1516170925179	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925191	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925192	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925192	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925192	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925194	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925195	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925196	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925196	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925197	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925198	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925198	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925199	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925200	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925200	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925201	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925201	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925202	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925203	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925204	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925204	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925205	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925205	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925208	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925209	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925210	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925211	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925211	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925211	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925212	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925212	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925213	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925215	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925215	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925216	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925216	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925217	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925218	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925218	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925219	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925219	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925219	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925221	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925222	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925222	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925224	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925224	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925226	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925228	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925228	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925230	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925235	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925235	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925324	Marionette	INFO	Listening on port 51288
+1516170925341	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925341	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516170925809	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516170925877	Marionette	DEBUG	Register listener.js for window 2147483649
+1516170925906	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516170926032	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516170926033	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516170926542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516170926666	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516170926677	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.baidu.com/"
+1516170926696	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.baidu.com/"
+1516170926698	Marionette	DEBUG	Received DOM event "unload" for "https://www.baidu.com/"
+1516170926808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516170926841	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516170930175	DeferredSave.webext.sc.lz4	DEBUG	Starting write
+1516170930181	DeferredSave.webext.sc.lz4	DEBUG	Write succeeded
+1516170983194	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1516170983195	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 76.1
+1516170983195	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 19.2.0
+1516170983200	addons.xpi	DEBUG	Calling bootstrap method shutdown on onboarding@mozilla.org version 1.0
+1516170983200	addons.xpi	DEBUG	Calling bootstrap method shutdown on formautofill@mozilla.org version 1.0
+1516170983201	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.6
+1516170983201	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1516170983201	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 3.05
+1516170983202	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+1516170983202	addons.xpi	DEBUG	Calling bootstrap method shutdown on activity-stream@mozilla.org version 2017.11.07.1100-7f4e3634
+JavaScript error: chrome://browser/content/browser.js, line 8383: TypeError: gBrowser.tabContainer is undefined
+[Parent 4008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1896, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516170983303	addons.manager	DEBUG	shutdown
+1516170983304	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1516170983304	addons.xpi	DEBUG	shutdown
+1516170983305	addons.xpi-utils	DEBUG	shutdown
+1516170983305	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1516170983305	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1516170983305	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1516170983306	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1516170983314	addons.manager	DEBUG	Async provider shutdown done
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1516171012788	geckodriver	INFO	geckodriver 0.19.1
+1516171012804	geckodriver	INFO	Listening on 127.0.0.1:51312
+1516171017127	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.13XIgcnw0139"
+1516171017316	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/XPIProvider.jsm: ["XPIProvider", "XPIInternal"]
+1516171017319	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/LightweightThemeManager.jsm: ["LightweightThemeManager"]
+1516171017335	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/GMPProvider.jsm
+1516171017337	addons.manager	DEBUG	Loaded provider scope for resource://gre/modules/addons/PluginProvider.jsm
+1516171017337	addons.manager	DEBUG	Starting provider: XPIProvider
+1516171017337	addons.xpi	DEBUG	startup
+1516171017338	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1516171017339	addons.xpi	DEBUG	checkForChanges
+1516171017339	addons.xpi	DEBUG	Loaded add-on state: {"app-system-defaults":{"addons":{"e10srollout@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460161,"path":"e10srollout@mozilla.org.xpi","version":"3.05","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"firefox@getpocket.com":{"enabled":true,"lastModifiedTime":1516154460160,"path":"firefox@getpocket.com.xpi","version":"1.0.5","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"activity-stream@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460211,"path":"activity-stream@mozilla.org.xpi","version":"2017.11.07.1100-7f4e3634","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"aushelper@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460162,"path":"aushelper@mozilla.org.xpi","version":"2.0","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"followonsearch@mozilla.com":{"enabled":true,"lastModifiedTime":1516154460118,"path":"followonsearch@mozilla.com.xpi","version":"0.9.6","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"formautofill@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460117,"path":"formautofill@mozilla.org.xpi","version":"1.0","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"onboarding@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460107,"path":"onboarding@mozilla.org.xpi","version":"1.0","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"screenshots@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460093,"path":"screenshots@mozilla.org.xpi","version":"19.2.0","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"shield-recipe-client@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460060,"path":"shield-recipe-client@mozilla.org.xpi","version":"76.1","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false},"webcompat@mozilla.org":{"enabled":true,"lastModifiedTime":1516154460048,"path":"webcompat@mozilla.org.xpi","version":"1.1","bootstrapped":true,"dependencies":[],"runInSafeMode":true,"hasEmbeddedWebExtension":false}},"path":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\features"},"app-global":{"addons":{"{972ce4c6-7e08-4474-a285-3208198ce6fd}":{"enabled":true,"lastModifiedTime":1516154460211,"path":"{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi","version":"57.0.4","type":"theme","currentModifiedTime":1516154460211}},"path":"C:\\Program Files (x86)\\Mozilla Firefox\\browser\\extensions","checkStartupModifications":true}}
+1516171017340	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1516171017340	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1516171017341	addons.xpi	INFO	Mapping activity-stream@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1516171017341	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1516171017341	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1516171017341	addons.xpi	INFO	Mapping formautofill@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1516171017341	addons.xpi	INFO	Mapping onboarding@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1516171017341	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1516171017341	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1516171017342	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1516171017342	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1516171017342	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+1516171017343	addons.xpi	INFO	SystemAddonInstallLocation directory is missing
+1516171017343	addons.xpi	DEBUG	No changes found
+1516171017351	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1516171017352	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1516171017354	addons.xpi	DEBUG	Calling bootstrap method startup on activity-stream@mozilla.org version 2017.11.07.1100-7f4e3634
+1516171017354	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1516171017355	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1516171017356	addons.xpi	DEBUG	Calling bootstrap method startup on aushelper@mozilla.org version 2.0
+1516171017357	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1516171017358	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1516171017365	addons.xpi	DEBUG	Calling bootstrap method startup on e10srollout@mozilla.org version 3.05
+1516171017366	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1516171017367	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1516171017371	addons.xpi	DEBUG	Calling bootstrap method startup on firefox@getpocket.com version 1.0.5
+1516171017377	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1516171017378	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1516171017380	addons.xpi	DEBUG	Calling bootstrap method startup on followonsearch@mozilla.com version 0.9.6
+1516171017380	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1516171017381	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1516171017382	addons.xpi	DEBUG	Calling bootstrap method startup on formautofill@mozilla.org version 1.0
+1516171017382	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1516171017383	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1516171017385	addons.xpi	DEBUG	Calling bootstrap method startup on onboarding@mozilla.org version 1.0
+1516171017385	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1516171017385	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1516171017387	addons.xpi	DEBUG	Calling bootstrap method startup on screenshots@mozilla.org version 19.2.0
+1516171017387	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1516171017388	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1516171017390	addons.xpi	DEBUG	Calling bootstrap method startup on shield-recipe-client@mozilla.org version 76.1
+1516171017391	addons.xpi	DEBUG	Registering manifest for C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1516171017392	addons.xpi	DEBUG	Loading bootstrap scope from C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1516171017393	addons.xpi	DEBUG	Calling bootstrap method startup on webcompat@mozilla.org version 1.1
+1516171017395	addons.manager	DEBUG	Registering shutdown blocker for XPIProvider
+1516171017395	addons.manager	DEBUG	Provider finished startup: XPIProvider
+1516171017395	addons.manager	DEBUG	Starting provider: LightweightThemeManager
+1516171017395	addons.manager	DEBUG	Registering shutdown blocker for LightweightThemeManager
+1516171017395	addons.manager	DEBUG	Provider finished startup: LightweightThemeManager
+1516171017396	addons.manager	DEBUG	Starting provider: GMPProvider
+1516171017400	addons.manager	DEBUG	Registering shutdown blocker for GMPProvider
+1516171017401	addons.manager	DEBUG	Provider finished startup: GMPProvider
+1516171017401	addons.manager	DEBUG	Starting provider: PluginProvider
+1516171017401	addons.manager	DEBUG	Registering shutdown blocker for PluginProvider
+1516171017401	addons.manager	DEBUG	Provider finished startup: PluginProvider
+1516171017401	addons.manager	DEBUG	Completed startup sequence
+1516171017461	Marionette	INFO	Enabled via --marionette
+1516171017580	addons.manager	DEBUG	Starting provider: PreviousExperimentProvider
+1516171017580	addons.manager	DEBUG	Registering shutdown blocker for PreviousExperimentProvider
+1516171017580	addons.manager	DEBUG	Provider finished startup: PreviousExperimentProvider
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+JavaScript error: resource://addoninstaller/common.js, line 132: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+*** Blocklist::_loadBlocklistFromFile: blocklist is disabled
+1516171018211	addons.xpi-utils	DEBUG	Starting async load of XPI database C:\Users\Administrator\AppData\Local\Temp\rust_mozprofile.13XIgcnw0139\extensions.json
+1516171018256	addons.xpi	INFO	Mapping activity-stream@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\activity-stream@mozilla.org.xpi
+1516171018256	addons.xpi	INFO	Mapping aushelper@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\aushelper@mozilla.org.xpi
+1516171018256	addons.xpi	INFO	Mapping e10srollout@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\e10srollout@mozilla.org.xpi
+1516171018256	addons.xpi	INFO	Mapping firefox@getpocket.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\firefox@getpocket.com.xpi
+1516171018256	addons.xpi	INFO	Mapping followonsearch@mozilla.com to C:\Program Files (x86)\Mozilla Firefox\browser\features\followonsearch@mozilla.com.xpi
+1516171018256	addons.xpi	INFO	Mapping formautofill@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\formautofill@mozilla.org.xpi
+1516171018256	addons.xpi	INFO	Mapping onboarding@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\onboarding@mozilla.org.xpi
+1516171018256	addons.xpi	INFO	Mapping screenshots@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\screenshots@mozilla.org.xpi
+1516171018256	addons.xpi	INFO	Mapping shield-recipe-client@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\shield-recipe-client@mozilla.org.xpi
+1516171018256	addons.xpi	INFO	Mapping webcompat@mozilla.org to C:\Program Files (x86)\Mozilla Firefox\browser\features\webcompat@mozilla.org.xpi
+1516171018257	addons.xpi	DEBUG	Existing add-on activity-stream@mozilla.org in app-system-defaults
+1516171018257	addons.xpi	DEBUG	Existing add-on aushelper@mozilla.org in app-system-defaults
+1516171018258	addons.xpi	DEBUG	Existing add-on e10srollout@mozilla.org in app-system-defaults
+1516171018258	addons.xpi	DEBUG	Existing add-on firefox@getpocket.com in app-system-defaults
+1516171018258	addons.xpi	DEBUG	Existing add-on followonsearch@mozilla.com in app-system-defaults
+1516171018258	addons.xpi	DEBUG	Existing add-on formautofill@mozilla.org in app-system-defaults
+1516171018259	addons.xpi	DEBUG	Existing add-on onboarding@mozilla.org in app-system-defaults
+1516171018259	addons.xpi	DEBUG	Existing add-on screenshots@mozilla.org in app-system-defaults
+1516171018259	addons.xpi	DEBUG	Existing add-on shield-recipe-client@mozilla.org in app-system-defaults
+1516171018259	addons.xpi	DEBUG	Existing add-on webcompat@mozilla.org in app-system-defaults
+1516171018260	addons.xpi	INFO	Mapping {972ce4c6-7e08-4474-a285-3208198ce6fd} to C:\Program Files (x86)\Mozilla Firefox\browser\extensions\{972ce4c6-7e08-4474-a285-3208198ce6fd}.xpi
+1516171018260	addons.xpi	DEBUG	Existing add-on {972ce4c6-7e08-4474-a285-3208198ce6fd} in app-global
+1516171018261	addons.xpi	DEBUG	getInstallState changed: false, state: {}
+1516171018433	addons.xpi-utils	DEBUG	Async JSON file read took 0 MS
+1516171018433	addons.xpi-utils	DEBUG	Finished async read of XPI database, parsing...
+1516171018437	addons.xpi-utils	DEBUG	Successfully read XPI database
+1516171018480	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018481	DeferredSave.webext.sc.lz4	DEBUG	Starting timer
+1516171018506	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018525	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018525	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018525	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018526	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018527	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018528	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018529	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018529	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018530	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018530	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018531	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018531	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018532	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018533	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018533	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018534	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018535	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018536	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018536	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018537	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018538	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018538	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018541	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018541	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018542	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018543	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018543	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018544	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018544	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018545	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018546	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018547	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018548	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018548	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018549	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018550	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018550	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018551	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018551	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018551	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018552	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018553	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018554	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018555	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018557	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018557	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018558	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018560	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018560	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018562	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018567	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018568	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018661	Marionette	INFO	Listening on port 51320
+1516171018677	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171018678	DeferredSave.webext.sc.lz4	DEBUG	Save changes
+1516171019166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1516171019243	Marionette	DEBUG	Register listener.js for window 2147483649
+1516171019280	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1516171019411	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1516171019412	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1516171019685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.baidu.com/"
+1516171019790	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.baidu.com/"
+1516171023499	DeferredSave.webext.sc.lz4	DEBUG	Starting write
+1516171023504	DeferredSave.webext.sc.lz4	DEBUG	Write succeeded
+1516171057954	addons.xpi	DEBUG	Calling bootstrap method shutdown on webcompat@mozilla.org version 1.1
+1516171057954	addons.xpi	DEBUG	Calling bootstrap method shutdown on shield-recipe-client@mozilla.org version 76.1
+1516171057955	addons.xpi	DEBUG	Calling bootstrap method shutdown on screenshots@mozilla.org version 19.2.0
+1516171057959	addons.xpi	DEBUG	Calling bootstrap method shutdown on onboarding@mozilla.org version 1.0
+1516171057960	addons.xpi	DEBUG	Calling bootstrap method shutdown on formautofill@mozilla.org version 1.0
+1516171057960	addons.xpi	DEBUG	Calling bootstrap method shutdown on followonsearch@mozilla.com version 0.9.6
+1516171057960	addons.xpi	DEBUG	Calling bootstrap method shutdown on firefox@getpocket.com version 1.0.5
+1516171057961	addons.xpi	DEBUG	Calling bootstrap method shutdown on e10srollout@mozilla.org version 3.05
+1516171057961	addons.xpi	DEBUG	Calling bootstrap method shutdown on aushelper@mozilla.org version 2.0
+1516171057961	addons.xpi	DEBUG	Calling bootstrap method shutdown on activity-stream@mozilla.org version 2017.11.07.1100-7f4e3634
+JavaScript error: chrome://browser/content/browser.js, line 8383: TypeError: gBrowser.tabContainer is undefined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1516171058020	addons.manager	DEBUG	shutdown
+1516171058021	addons.manager	DEBUG	Calling shutdown blocker for XPIProvider
+1516171058021	addons.xpi	DEBUG	shutdown
+1516171058021	addons.xpi-utils	DEBUG	shutdown
+1516171058021	addons.manager	DEBUG	Calling shutdown blocker for LightweightThemeManager
+1516171058022	addons.manager	DEBUG	Calling shutdown blocker for GMPProvider
+1516171058022	addons.manager	DEBUG	Calling shutdown blocker for PluginProvider
+1516171058022	addons.manager	DEBUG	Calling shutdown blocker for PreviousExperimentProvider
+1516171058029	addons.manager	DEBUG	Async provider shutdown done
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 6520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
