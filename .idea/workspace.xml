@@ -19,7 +19,28 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="startrunner.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/startrunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scratchPagelogin_register.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/unit_test/scratchPagelogin_register.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -61,12 +82,12 @@
         <option value="$PROJECT_DIR$/data/datainfo.py" />
         <option value="$PROJECT_DIR$/unit_test/homepage_loginpop.py" />
         <option value="$PROJECT_DIR$/unit_test/homepage_student_registerpop.py" />
-        <option value="$PROJECT_DIR$/unit_test/scratchPagelogin_register.py" />
-        <option value="$PROJECT_DIR$/unit_test/user_name_pwd_logintest.py" />
         <option value="$PROJECT_DIR$/unit_test/login_register.py" />
         <option value="$PROJECT_DIR$/unit_test/bugverfy.py" />
         <option value="$PROJECT_DIR$/unit_test/homepage_teacher_registerpop.py" />
         <option value="$PROJECT_DIR$/unit_test/homepage_login.py" />
+        <option value="$PROJECT_DIR$/unit_test/scratchPagelogin_register.py" />
+        <option value="$PROJECT_DIR$/unit_test/user_name_pwd_logintest.py" />
       </list>
     </option>
   </component>
@@ -91,8 +112,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -127,7 +148,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="last_opened_file_path" value="D:/Autotest" />
   </component>
-  <component name="RunManager" selected="Python.startrunner">
+  <component name="RunManager" selected="Python tests.Unittest Flashpage_reg_login.test_1_sturegister">
     <configuration default="false" name="startrunner" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,28 +181,6 @@
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Unittest BugloginV.test_02_step2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="youngmaker_auto" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit_test/bugverfy.py" />
-      <option name="CLASS_NAME" value="BugloginV" />
-      <option name="METHOD_NAME" value="test_02_step2" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <option name="PUREUNITTEST" value="true" />
@@ -224,6 +223,28 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit_test/homepage_login.py" />
       <option name="CLASS_NAME" value="Hp_login" />
       <option name="METHOD_NAME" value="test_03" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest Flashpage_reg_login.test_1_sturegister" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unit_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="youngmaker_auto" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unit_test/scratchPagelogin_register.py" />
+      <option name="CLASS_NAME" value="Flashpage_reg_login" />
+      <option name="METHOD_NAME" value="test_1_sturegister" />
       <option name="FOLDER_NAME" value="" />
       <option name="TEST_TYPE" value="TEST_METHOD" />
       <option name="PATTERN" value="" />
@@ -416,17 +437,17 @@
       <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in user_name_pwd_logintest" />
       <item index="2" class="java.lang.String" itemvalue="Python.startrunner" />
       <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in bugverfy" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest BugloginV.test_02_step2" />
-      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in login_register" />
-      <item index="6" class="java.lang.String" itemvalue="Python tests.Unittest Hp_login.test_03" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in login_register" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittest Hp_login.test_03" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.Unittest Flashpage_reg_login.test_1_sturegister" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.startrunner" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest Hp_login.test_03" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in login_register" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in bugverfy" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest BugloginV.test_02_step2" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest Flashpage_reg_login.test_1_sturegister" />
+        <item index="1" class="java.lang.String" itemvalue="Python.startrunner" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest Hp_login.test_03" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in login_register" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in bugverfy" />
       </list>
     </recent_temporary>
   </component>
@@ -444,11 +465,11 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittest_Hp_login_test_03 - 2018.01.22 at 11h 31m 17s.xml">
-      <configuration name="Unittest Hp_login.test_03" configurationId="tests" />
+    <history-entry file="Unittest_Flashpage_reg_login_test_1_sturegister - 2018.01.22 at 17h 23m 20s.xml">
+      <configuration name="Unittest Flashpage_reg_login.test_1_sturegister" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittest_Hp_login_test_03 - 2018.01.22 at 11h 51m 08s.xml">
-      <configuration name="Unittest Hp_login.test_03" configurationId="tests" />
+    <history-entry file="Unittest_Flashpage_reg_login_test_1_sturegister - 2018.01.22 at 18h 44m 54s.xml">
+      <configuration name="Unittest Flashpage_reg_login.test_1_sturegister" configurationId="tests" />
     </history-entry>
     <history-entry file="Unittest_Hp_login_test_03 - 2018.01.22 at 11h 52m 16s.xml">
       <configuration name="Unittest Hp_login.test_03" configurationId="tests" />
@@ -485,10 +506,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19345239" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22693452" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.035413153" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="调试" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37777779" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -496,7 +517,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.11681548" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="运行" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17777778" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="运行" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22051282" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -801,16 +822,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unit_test/scratchPagelogin_register.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="15" column="37" lean-forward="false" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
-          <folding>
-            <element signature="e#15#37#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/unit_test/homepage_loginpop.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -866,15 +877,23 @@
     <entry file="file://$PROJECT_DIR$/unit_test/user_name_pwd_logintest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="249">
-          <caret line="71" column="35" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
+          <caret line="71" column="47" lean-forward="true" selection-start-line="71" selection-start-column="47" selection-end-line="71" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/startrunner.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-318">
+        <state relative-caret-position="81">
           <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unit_test/scratchPagelogin_register.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="9" column="45" lean-forward="true" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
           <folding />
         </state>
       </provider>

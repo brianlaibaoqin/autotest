@@ -36,6 +36,7 @@ class Flashpage_reg_login(unittest.TestCase):
         """ flashpage学生账号登录"""
         os.system("D:\\youngmaker_auto\\function\AU3\\login.exe")
         self.driver.refresh()
+        sleep(2)
         all_handles = self.driver.window_handles
         Cur = self.driver.current_window_handle
         self.driver.switch_to_window(all_handles[2])
@@ -56,6 +57,7 @@ class Flashpage_reg_login(unittest.TestCase):
     def test_4_tealogin(self):
         os.system("D:\\youngmaker_auto\\function\AU3\\login.exe")
         self.driver.refresh()
+        sleep(2)
         all_handles2 = self.driver.window_handles
         self.driver.switch_to_window(all_handles2[2])
         try:

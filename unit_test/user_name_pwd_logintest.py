@@ -66,6 +66,7 @@ class Test_excellogin(unittest.TestCase):
                 self.assertTrue(userinfo,data[4])
                 print("登录成功",userinfo)
             else:
+                sleep(1)
                 fail_msg = self.driver.find_element_by_xpath("//*[@id='body']/div[2]/div[1]/form/div/ul/li[1]/p").text
                 print(fail_msg)
                 self.assertIn(data[4],fail_msg)
